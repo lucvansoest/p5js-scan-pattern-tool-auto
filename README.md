@@ -1,1 +1,1 @@
-# p5js-scan-pattern-tool-auto
+# p5js-scan-pattern-tool
